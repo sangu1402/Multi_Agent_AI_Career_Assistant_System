@@ -35,3 +35,5 @@ Provides real job listings, not hard-coded or fake ones.
 Clean modular architecture → easy to deploy, extend, or convert into A2A agents.
 
 Ready for local testing and cloud deployment (Linode/NEST/Nanda).
+
+<img width="1280" height="1706" alt="image" src="https://github.com/user-attachments/assets/f9e79b0b-6f71-4ec4-8fcd-93b047ba2e69" />
