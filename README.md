@@ -36,4 +36,5 @@ Clean modular architecture → easy to deploy, extend, or convert into A2A agent
 
 Ready for local testing and cloud deployment (Linode/NEST/Nanda).
 
-<img width="1280" height="1706" alt="image" src="https://github.com/user-attachments/assets/f9e79b0b-6f71-4ec4-8fcd-93b047ba2e69" />
+  <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/f9e79b0b-6f71-4ec4-8fcd-93b047ba2e69" /> <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/f8d3c00b-321e-497d-9933-0dc4f18ef904" />
+
