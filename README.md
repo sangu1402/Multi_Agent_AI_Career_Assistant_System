@@ -1,4 +1,4 @@
-📌 Multi-Agent Career Assistant (5-Agent System)
+📌 Multi-Agent AI Career Assistant (5-Agent System)
 
 This project is a multi-agent career assistant built using FastAPI, Anthropic Claude, and SerpAPI.
 It processes a user’s resume and generates end-to-end career guidance using five fully independent AI agents, each handling a specific task.
